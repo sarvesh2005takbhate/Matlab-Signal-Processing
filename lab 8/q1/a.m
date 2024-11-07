@@ -18,4 +18,3 @@ xlabel('Time');
 ylabel('Amplitude');
 title('Sampled Signal');
 grid on; 
-
